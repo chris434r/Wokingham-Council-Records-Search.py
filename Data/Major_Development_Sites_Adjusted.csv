@@ -1,0 +1,132 @@
+﻿OBJECTID,SITE_NAME,REFERENCE,STATUS,MAJOR_DEV,DEVELOPER,DEV_NAME,APP_NO,WBC_APP_NO_unique,Shape_Length,Shape_Area
+1,Kentwood Farm East,NW3,Completed,North Wokingham,Crest Nicholson,Mulberry Grove,O/2011/0699,RM/2013/1164,2082.903104,137856.3832
+2,Land at Plough Farm,NW6,Completed,North Wokingham,Persimmon,Carrillions,F/2007/2517,12345,1249.619874,64361.26946
+3,Land at Plough Farm,NW7,Completed,North Wokingham,Bellway Homes,Buttercup Close,F/2012/2031,12345,454.0245541,11611.87655
+4,Matthewsgreen Farm,NW5_2a,Completed,North Wokingham,Bovis & Thames Valley Housing,Phase 2a, ,160765,829.8805927,42851.17236
+5,Arborfield Garrison,A8,Completed,Arborfield,Crest Nicholson,Bohunt Secondary School,O/2014/2280,F/2015/0001,1593.604421,68963.64014
+6,Plough Lane,NW12,Nature Park (open),North Wokingham,Bellway Homes,TBC,F/2007/2517,C/2010/1511,577.8983245,15525.78577
+7,Kentwood Farm,NW8,Nature Park (open),North Wokingham,Crest Nicholson,Kentwood Meadows,O/2011/0699,161839,1041.442033,46540.17918
+8,Bell Farm,NW9,Nature Park (open),North Wokingham,Berkeley Homes,TBC, ,161839,1289.746948,91537.75996
+9,Old Forest Rod,NW10,Nature Park (open),North Wokingham,Bovis Homes & Linden,TBC,F/2014/1216,12345,1122.143692,35537.49628
+10,Old Forest Rod,NW10,Nature Park (open),North Wokingham,Bovis Homes & Gleeson Developments,TBC,F/2014/1216,12345,1166.117294,30107.74397
+11,Hogwood,A1,In planning application process,Arborfield,Legal & General Homes,,O/2014/2179,12345,4460.241248,856773.3419
+12,Parcel O1 (Phase One),A3,Completed,Arborfield,Crest Nicholson,Waterman's View at Arborfield Green,O/2014/2280,150162,1231.659324,54951.01515
+13,Parcel T (Phase Two),A4,Under construction,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,161536,1124.839311,52034.27893
+14,West Court SANG,A6a,Nature Park (proposed),Arborfield,Crest Nicholson,West Court,O/2014/2280,12345,3128.248718,225197.5563
+15,Buckhurst Farm,SW1_5,Completed,South Wokingham,Barratt Homes,Montague Park Phase 5,"O/2010/1712, VAR/2015/0342 & 161963",RM/2014/0265,1100.54491,43690.30273
+15,Buckhurst Farm,SW1_5,Completed,South Wokingham,Barratt Homes,Montague Park Phase 5,"O/2010/1712, VAR/2015/0342 & 161963",RNMT/2015/1307 ,1100.54491,43690.30273
+15,Buckhurst Farm,SW1_5,Completed,South Wokingham,Barratt Homes,Montague Park Phase 5,"O/2010/1712, VAR/2015/0342 & 161963",152378,1100.54491,43690.30273
+15,Buckhurst Farm,SW1_5,Completed,South Wokingham,Barratt Homes,Montague Park Phase 5,"O/2010/1712, VAR/2015/0342 & 161963",160611,1100.54491,43690.30273
+16,Buckhurst Farm,SW1_2,Completed,South Wokingham,David Wilson Homes,Montague Park Phase 2 (residential),"O/2010/1712, VAR/2015/0342 & 161963",RM/2013/0242,1388.800907,51583.68882
+16,Buckhurst Farm,SW1_2,Completed,South Wokingham,David Wilson Homes,Montague Park Phase 2 (residential),"O/2010/1712, VAR/2015/0342 & 161963",NMT/2013/2500,1388.800907,51583.68882
+17,Buckhurst Farm,SW1_7,Completed,South Wokingham,David Wilson Homes,Montague Park Phase 7,"O/2010/1712, VAR/2015/0342 & 161963",153263,592.991649,21548.74095
+18,Buckhurst Farm,SW1_4,Completed,South Wokingham,David Wilson Homes,Montague Park Phase 4,"O/2010/1712, VAR/2015/0342 & 161963",NMT/2014/2807,1200.063828,33027.94263
+18,Buckhurst Farm,SW1_4,Completed,South Wokingham,David Wilson Homes,Montague Park Phase 4,"O/2010/1712, VAR/2015/0342 & 161963",RM/2014/0979,1200.063828,33027.94263
+19,Buckhurst Farm,SW1_1,Nature Park (open),South Wokingham,David Wilson Homes,Montague Park Phase 2 (SANG),"O/2010/1712, VAR/2015/0342 & 161963",RM/2013/0242,2235.148444,139761.2147
+20,Film Studio,A9,Completed,Arborfield,Crest Nicholson,Arborfield Green,162881,12345,2118.809128,115373.4397
+21,Bell Farm,NW1,Under construction,North Wokingham,Berkeley Homes,Foundry Place, ,161839,1234.355566,63162.48084
+22,Stokes Farm,NW11,Nature Park (open),North Wokingham,The Keephatch Beech Consortium,Keephatch Beech,O/2014/2435,153247,1385.445825,78364.41047
+23,West Court SANG,A6b,Nature Park (proposed),Arborfield,Legal & General Homes,Hogwood Farm,O/2014/2179,181194,1853.750101,129447.331
+24,West Court SANG,A6b,Nature Park (proposed),Arborfield,Legal & General Homes,Hogwood Farm,O/2014/2179,181194,1949.864182,133607.279
+25,Keephatch Beech,NW2,Under construction,North Wokingham,Keephatch Consortium, ,O/2014/2435,153247,3640.539325,209695.3816
+26,Rowcroft SANG,A5,Nature Park (open),Arborfield,Crest Nicholson,Hazebrook Meadows,O/2014/2280,161153,2223.716011,143139.1029
+27,Reading Football Club,A11,In planning application process,Arborfield,,Reading Football Club & Baron Willmore,163547,12345,1369.612913,116141.671
+28,Shinfield West Phase 1 Allotments,SP30,Fully approved (work not started),Shinfield Parish,"University of Reading, Barton Willmore",,,163543,626.2919281,9879.348603
+29,The Ridge SANG,SP23,Nature Park (proposed),Shinfield Parish,Consortia, ,O/2013/0346,12345,1653.344404,116382.3009
+30,May's Farm SANG,SP24,Nature Park (open),Shinfield Parish,Consortia, ,O/2013/0346,12345,1417.961105,84419.22867
+31,Clare's Green SANG,SP25,Nature Park (open),Shinfield Parish,Wokingham Borough Council, , ,12345,863.9463518,41414.68746
+32,Clare's Green SANG,SP25,Nature Park (open),Shinfield Parish,Wokingham Borough Council, , ,12345,675.943101,24170.58459
+33,Shinfield West Allotments,SP9_4,Fully approved (work not started),Shinfield Parish,"Bloor Homes, Linden Homes & Bovis Homes",Shinfield Meadows,O/2010/1432,161189,593.6422015,12032.47719
+34,Mereoak Park & Ride,SP14,Completed,Shinfield Parish, , ,F/2013/0884,12345,1371.379035,61992.48162
+35,Rose Cottage West,SP7,Completed,Shinfield Parish,Daracliffe Homes, ,152163,152163,286.7032984,4165.715904
+36,Shinfield West,SP9,In planning application process,Shinfield Parish,"Bloor Homes, Linden Homes & Bovis Homes",Shinfield Meadows,O/2010/1432,VAR/2014/0624,1182.565813,39455.48819
+37,Land south of Cutbush Lane,SP21,In planning application process,Shinfield Parish,"University of Reading, Bellway", ,181499,181499,1336.921429,85126.50767
+38,Land north of Croft Road,SP10,Completed,Shinfield Parish,Daracliffe Homes,Saxon Meadows,F/2014/2323,12345,330.0454314,6340.953182
+39,Land north of Grazeley Road,SP2,Completed,Shinfield Parish,Bellway & Bovis, ,O/2007/2268,RM/2011/2607,1538.6521,97684.54031
+40,Land east of Basingstoke Road,SP3,Completed,Shinfield Parish,Crest Nicholson,The Brambles,O/2013/0565,RM/2015/1019,908.9105603,37286.47665
+41,Thames Valley Science Park Phase 1,SP8_1,Fully approved (work not started),Shinfield Parish,"University of Reading, Barton Willmore", ,O/2009/1027,O/2009/1027,1749.593814,91871.13768
+42,Land south of Croft Road,SP4,Under construction,Shinfield Parish,Taylor Wimpey & David Wilson Homes,Croft Gardens,O/2013/0346,F/2013/0347,1950.25665,93755.80245
+43,Land north of Cutbush Lane,SP1,Completed,Shinfield Parish,Bellway,Littlebrook,O/2013/0101,RM/2014/2561,1114.08521,48920.95692
+44,Shinfield West,SP9_1,Under construction,Shinfield Parish,"Bloor Homes, Linden Homes & Bovis Homes",Shinfield Meadows,O/2010/1432,161189,1282.967198,65961.84764
+45,Land south of Church Lane,SP12,Under construction,Shinfield Parish,Taylor Wimpey,Deer Leap Park,O/2013/0346,181366,885.8261875,32452.05867
+46,Littlefields,SP5,Under construction,Shinfield Parish, , , ,161508,270.1676763,3828.685827
+47,Langley Mead SANG,SP27,Nature Park (open),Shinfield Parish,Consortia, ,O/2010/1432,12345,3434.568776,182098.979
+48,Parcel U2,A12,Under construction,Arborfield,Crest Nicholson,,O/2014/2280,171333,711.2467337,27130.67275
+49,Parcel Q,A13,Under construction,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,172005,787.2640233,27925.94108
+49,Parcel Q,A13,Under construction,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,190150,787.2640233,27925.94108
+50,Sustainable Transport Link,SP29,Fully approved (work not started),Shinfield Parish,Barton Willmore,,"O/2014/0346, VAR/2014/0624",170239,446.9253966,4344.491972
+51,Ryeish Green Sports Centre,SP28,Completed,Shinfield Parish,Wokingham Borough Council,Ryeish Green Leisure Centre,,171143,684.8604044,10751.20877
+52,Buckhurst Farm,SW1_6,Under construction,South Wokingham,David Wilson Homes,Montague Park Phase 6 (neighbourhood centre),"O/2010/1712, VAR/2015/0342 & 161963",163264,613.5901716,21151.76479
+53,Buckhurst Farm,SW1_3,Completed,South Wokingham,David Wilson Homes,Montague Park Phase 3,"O/2010/1712, VAR/2015/0342 & 161963",RM/2014/0586,727.6196906,25690.09404
+54,Land north of Hyde End Road,SP19,Under construction,Shinfield Parish,Bewley Homes, , ,161255,511.0689599,16255.76183
+55,The Manor,SP18,Under construction,Shinfield Parish,Charles Church,Heritage Park,O/2011/0204,RM/2014/2062,1321.350312,81311.33486
+56,Land north of Church Lane,SP11,Under construction,Shinfield Parish,Taylor Wimpey,Orchard Rise,O/2013/0346,162829,1141.470288,61754.81187
+57,Kentwood Farm West,NW4,Under construction,North Wokingham,Crest Nicholson, ,O/2013/2295,170083,1261.611491,86911.89324
+58,Land south of Church Lane and east of Basingstoke Road,SP31,Fully approved (work not started),Shinfield Parish,Taylor Wimpey,Parklands,171737,171737,569.7939725,16630.58513
+59,Shinfield West Primary School,SP9_0,Completed,Shinfield Parish,"Bloor Homes, Linden Homes & Bovis Homes",Shinfield Meadows,O/2010/1432,170035,717.9752056,30622.44487
+60,Matthewsgreen Farm,NW5_1,Completed,North Wokingham,Bovis,Phase 1,O/2014/2242,150093,1008.371201,41443.27555
+61,Matthewsgreen Farm Phase 4,NW5_4,Under construction,North Wokingham,Bovis Homes,Emmbrook Place,O/2014/2242,172751,1494.495355,103428.658
+61,Matthewsgreen Farm Phase 4,NW5_4,Under construction,North Wokingham,Bovis Homes,Emmbrook Place,O/2014/2242,181888,1494.495355,103428.658
+61,Matthewsgreen Farm Phase 4,NW5_4,Under construction,North Wokingham,Bovis Homes,Emmbrook Place,O/2014/2242,191026,1494.495355,103428.658
+61,Matthewsgreen Farm Phase 4,NW5_4,Under construction,North Wokingham,Bovis Homes,Emmbrook Place,O/2014/2242,191232,1494.495355,103428.658
+61,Matthewsgreen Farm Phase 4,NW5_4,Under construction,North Wokingham,Bovis Homes,Emmbrook Place,O/2014/2242,191949,1494.495355,103428.658
+62,Matthewsgreen Farm,NW5_2b,Under construction,North Wokingham,Linden Homes,Phase 2b,O/2014/2242,162140,822.8743407,40534.31194
+63,Matthewsgreen Farm,NW5,In planning application process,North Wokingham,"Bovis, Linden Homes & Thames Valley Housing",Emmbrook Place,O/2014/2242,12345,819.6929178,32358.65396
+64,"Matthewsgreen Primary School, Community Centre and Nursery",NW5_0,Fully approved (work not started),North Wokingham,Wokingham Borough Council,"Primary School, Community Centre and Nursery",O/2014/2242,172331,707.0179857,27884.2599
+65,Matthewsgreen Farm,NW5_3,Under construction,North Wokingham,Linden Homes,Matthewsgreen Farm (Phase 3),O/2014/2242,170618,952.3618557,45220.35546
+66,Shinfield West Phase 2,SP9_2,Under construction,Shinfield Parish,"Bloor Homes, Bovis Homes and Linden Homes",Shinfield Meadows,O/2010/1432,172450,1759.341877,169767.3061
+67,Five Acre Field,SP26,Nature Park (open),Shinfield Parish,Consortia, ,O/2013/0346,12345,746.9942418,22370.15155
+68,Shinfield West,SP9_1,Under construction,Shinfield Parish,"Bloor Homes, Linden Homes & Bovis Homes",Shinfield Meadows,O/2010/1432,160183,1457.256564,85685.3289
+68,Shinfield West,SP9_1,Under construction,Shinfield Parish,"Bloor Homes, Linden Homes & Bovis Homes",Shinfield Meadows,O/2010/1432,161189,1457.256564,85685.3289
+69,Land north of Croft Road,SP6,Under construction,Shinfield Parish,Taylor Wimpey & David Wilson Homes,,O/2013/0346,163457,1880.391397,139637.5939
+69,Land north of Croft Road,SP6,Under construction,Shinfield Parish,Taylor Wimpey & David Wilson Homes,,O/2013/0346,170010,1880.391397,139637.5939
+70,Thames Valley Science Park Gateway Building 2,SP8_1c,Under construction,Shinfield Parish,"University of Reading, Barton Wilmore",,O/2009/1027,173287,347.7291055,5756.477062
+71,Thames Valley Science Park Cancer Research Centre,SP8_1b,Under construction,Shinfield Parish,"University of Reading, Barton Wilmore",,O/2009/1027,162841,390.5967408,9499.63196
+72,Thames Valley Science Park Phase 2,SP8_2,Fully approved (work not started),Shinfield Parish,"University of Reading, Barton Wilmore",,O/2009/1027,163609,1366.186217,98048.37159
+73,Thames Valley Science Park Car Park,SP8_1d,Completed,Shinfield Parish,"University of Reading, Barton Wilmore",,O/2009/1027,162818,680.8606635,15391.71741
+74,Parcel M,A15,Under construction,Arborfield,Millgate Homes,,O/2014/2280,181982,477.778986,11254.77482
+75,Parcel K,A14,Under construction,Arborfield,Crest Nicholson,,O/2014/2280,173734,272.8110295,4668.652044
+76,Parcel C2,A16,Under construction,Arborfield,Crest Nicholson,,O/2014/2280,181658,527.8362969,16245.58787
+77,Thames Valley Science Park Gateway Building 1,SP8_1a,Completed,Shinfield Parish,"University of Reading, Barton WIlmore",,O/2009/1027,151988,437.2586614,10669.00977
+78,Primary School,A17,Fully approved (work not started),Arborfield,Crest Nicholson,Primary School,O/2014/2280,180846,750.700527,29385.16032
+79,Specialist Housing Site (South),SP9_3b,Under construction,Shinfield Parish,"Evolution (Shinfield), Bloor, Bovis, Castleoak",,0/2010/1432,180757,274.3907328,3914.079968
+80,Specialist Housing Site (North),SP9_3a,Fully approved (work not started),Shinfield Parish,"Evolution (Shinfield), Bloor, Bovis, Anchor",,O/2010/1432,180758,465.6274754,8778.537503
+81,Link Road,SP8_3,Fully approved (work not started),Shinfield Parish,"University of Reading, Barton Wilmore",,163609,182159,386.9902961,2790.605032
+82,British Museum Archives,SP32,Under construction,Shinfield Parish,"British Museum, Barton Wilmore",British Museum Research Facility Collection,182059,182059,1128.96312,72593.43328
+83,Lakeside Bus Route,A18,Fully approved (work not started),Arborfield,Lakeside Bus Route,Crest Nicholson,O/2014/2280,182364,1373.745623,54428.2735
+84,Hogwood Farm Phase 1,A1_1,Under construction,Arborfield,Legal & General Homes,Finchwood Park,O/2014/2179,181194,1149.145691,70199.48812
+84,Hogwood Farm Phase 1,A1_1,Under construction,Arborfield,Legal & General Homes,Finchwood Park,O/2014/2179,181422,1149.145691,70199.48812
+85,Arborfield Garrison,A2g,Completed,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,161747,610.788401,22619.00356
+86,Phase 3 (Parcels A-G),A2f,Completed,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,161747,582.1647677,20384.3877
+87,Parcel E,A2e,Under construction,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,161747,629.382348,25139.04051
+88,Parcel B,A2b,Fully approved (work not started),Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,193190,635.410146,23641.63978
+88,Parcel B,A2b,Fully approved (work not started),Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,161747,635.410146,23641.63978
+89,Parcel A,A2a,Fully approved (work not started),Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,161747,372.2800107,4383.449339
+90,Parcel D,A2d,Under construction,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,161747,404.214919,9677.889132
+91,Parcel C,A2c,Under construction,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,161747,414.2914563,7966.413919
+92,Parcel J,A2j,Under construction,Arborfield,Redrow Homes,Arborfield Green,O/2014/2280,170686,724.5619378,34715.93186
+92,Parcel J,A2j,Under construction,Arborfield,Redrow Homes,Arborfield Green,O/2014/2280,192609,724.5619378,34715.93186
+93,Parcel I,A2i,Under construction,Arborfield,Redrow Homes,Arborfield Green,O/2014/2280,170686,435.5515396,9426.089266
+94,Parcel H,A2h,Under construction,Arborfield,Redrow Homes,Arborfield Green,O/2014/2280,170686,757.8338505,28052.18099
+95,Sports Hub,SP33,In planning application process,Shinfield Parish,David Wilson Homes & Taylor Wimpey,Hyde End Land Pitches,O/2013/0346,173477,1069.056256,40298.51187
+96,Langley Mead SANG extension,SP34,Nature Park (proposed),Shinfield Parish,University of Reading & Barton Willmore,,181631,181631,2289.864046,240508.9867
+97,Parcel X,A19,Fully approved (work not started),Arborfield,Bewley Homes,,O/2014/2280,190455,642.2213275,21507.26168
+98,Phase 2b,SW2_b,In planning application process,South Wokingham,Consortium,,191068,12345,5476.02233,705802.5554
+99,Phase 2a,SW2_a,In planning application process,South Wokingham,Consortium,,190914,12345,1134.409896,64973.2409
+100,Phase 2b SANG,SW6,Nature Park (proposed),South Wokingham,Consortium,,191068,12345,2934.456624,204387.7293
+101,Potential Sports Hub,SW9,Allocated in Local Plan,South Wokingham,,,,12345,2100.822991,260541.5421
+102,St. Anne's SANG,SW8,Nature Park (proposed),South Wokingham,Consortium,,190900,12345,1788.660663,80756.54005
+103,Matthewsgreen Farm,NW5_1a,Fully approved (work not started),North Wokingham,Bovis,Phase 1b,O/2014/2242,193058,217.5471535,2453.95343
+103,Matthewsgreen Farm,NW5_1a,Fully approved (work not started),North Wokingham,Bovis,Phase 1b,O/2014/2242,191026,217.5471535,2453.95343
+104,Matthewsgreen Farm,NW5_5,Fully approved (work not started),North Wokingham,Bovis,Local Centre,O/2014/2242,191024,172.763021,1848.352582
+105,Arborfield Garrison,A7,In planning application process,Arborfield,Crest Nicholson,Arborfield Green,O/2014/2280,12345,8910.159916,563130.6248
+106,Parcel AA,A10,Fully approved (work not started),Arborfield,Crest Nicholson,,191753,`,362.6490847,7153.887244
+107,Shinfield Community Centre,SP13,In planning application process,Shinfield Parish,Shinfield Parish,Shinfield Community Centre,191387,12345,193.122386,2085.220726
+108,Toutley Industrial Park,NW13,Fully approved (work not started),North Wokingham,WBC,,193206,12345,1119.230691,43626.85267
+109,Shinfield View Care Home,SP9b,In planning application process,Shinfield Parish,Shinfield Lodge Care Limited,,191693,12345,302.7680148,5492.031954
+110,Land south-east of Finchampstead Rd,SW3,In planning application process,South Wokingham,Charles Church,,192325,12345,2479.729393,126578.5971
+111,SANG,SW4,Nature Park (proposed),South Wokingham,Charles Church,,192325,12345,980.7734762,37453.41452
+112,SANG (Parklands),SP22,Nature Park (proposed),Shinfield Parish,Taylor Wimpey,,171737,12345,618.4237963,16832.00708
+113,Land south of Church Lane and east of Basingstoke Road,SP31,Fully approved (work not started),Shinfield Parish,Taylor Wimpey,Parklands,171737,171737,635.1723546,12864.72696
+114,Land south-east of Finchampstead Rd,SW3,In planning application process,South Wokingham,Charles Church,,192325,12345,906.9353602,41943.04551
+115,Land south-east of Finchampstead Rd,SW3,In planning application process,South Wokingham,Charles Church,,192325,12345,25.81965211,6.549689509
