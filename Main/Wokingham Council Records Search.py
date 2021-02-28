@@ -5,20 +5,23 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-df = pd.read_csv (r"\\uk.wspgroup.com\Central Data\Projects\70075xxx\70075873 - Wokingham-WKH-000000-2021-LCWIP2\03 WIP\Smart Consulting GIS\XLS\Major_Development_Sites_Adjusted.csv",usecols = ['WBC_APP_NO_unique'])
 
-developments = df ['WBC_APP_NO_unique']
-print(developments)
-#N = 1
-N = len(developments)
+chromedriver_location = r"/Users/chrisryan/Chrome Driver/chromedriver"
+df = pd.read_csv (r"/Users/chrisryan/Wokingham-Council-Records-Search.py/Input data/"
+                  r"Major_Development_Sites_Adjusted.csv", usecols = ['WBC_APP_NO_unique'])
+
+development_sites = df ['WBC_APP_NO_unique']
+
+N = 1
+#N = len(development_sites)
 Records_found=[]
 
 for x in range (N):
   chrome_options = Options()
   global browser
-  browser = webdriver.Chrome(r'C:\Users\UKCJR003\Documents\Chrome_Drive\chromedriver.exe')
+  browser = webdriver.Chrome(chromedriver_location)
   browser.get('https://planning.wokingham.gov.uk/FastWebPL/welcome.asp')
-  name = developments [x]
+  name = development_sites [x]
   searchbar = browser.find_element_by_id ('ApplicationNumber')
   searchbar.click ()
   searchbar.send_keys (name)
@@ -49,10 +52,10 @@ for x in range (N):
       Records_found.insert(x,records)
 
 
-Developments_zip = zip(developments,Records_found)
+Developments_zip = zip(development_sites,Records_found)
 Developments_list = list((Developments_zip))
 Developments_w_Records = pd.DataFrame(Developments_list)
 #
 # print (resultdf)
 #
-Developments_w_Records.to_csv(r"\\uk.wspgroup.com\Central Data\Projects\70075xxx\70075873 - Wokingham-WKH-000000-2021-LCWIP2\03 WIP\Smart Consulting GIS\XLS\Major_Development_Sites_Records_added.csv");
+Developments_w_Records.to_csv(r"/Users/chrisryan/Wokingham-Council-Records-Search.py/Output/Major_Development_Sites_Records_added.csv");
