@@ -7,10 +7,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 chromedriver_location = r"/Users/chrisryan/Chrome Driver/chromedriver"
-df = pd.read_csv (r"/Users/chrisryan/Wokingham-Council-Records-Search.py/Input data/"
-                  r"Major_Development_Sites_Adjusted.csv", usecols = ['WBC_APP_NO_unique'])
-
-development_sites = df ['WBC_APP_NO_unique']
+Input_CSV = pd.read_csv (r"/Users/chrisryan/Wokingham-Council-Records-Search.py/Input data/"
+                  r"Major_Development_Sites_Adjusted.csv")
+development_sites = Input_CSV ['WBC_APP_NO_unique']
 
 N = 1
 #N = len(development_sites)
@@ -55,7 +54,9 @@ for x in range (N):
 Developments_zip = zip(development_sites,Records_found)
 Developments_list = list((Developments_zip))
 Developments_w_Records = pd.DataFrame(Developments_list)
-#
-# print (resultdf)
-#
-Developments_w_Records.to_csv(r"/Users/chrisryan/Wokingham-Council-Records-Search.py/Output/Major_Development_Sites_Records_added.csv");
+Developments_w_Records.rename(columns={ Developments_w_Records.columns[0]: "WBC_APP_NO_UNIQUE" }, inplace = True)
+Developments_w_Records.rename(columns={ Developments_w_Records.columns[1]: "APPLICATION_DETAIL" }, inplace = True)
+
+Merge = pd.merge(Input_CSV,Developments_w_Records, how = 'left', left_on = ['WBC_APP_NO_unique'],right_on= ['WBC_APP_NO_UNIQUE'])
+Merge_tidy = Merge[['OBJECTID','SITE_NAME','REFERENCE','STATUS','MAJOR_DEV','DEVELOPER','DEV_NAME','APP_NO','WBC_APP_NO_UNIQUE','APPLICATION_DETAIL']]
+Merge_tidy.to_csv(r"/Users/chrisryan/Wokingham-Council-Records-Search.py/Output/Major_Development_Sites_Records_added.csv");
