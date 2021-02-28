@@ -47,7 +47,6 @@ for x in range (N):
           print ('Name Error')
           break
 
-  for links in attribute_value:
       records = links.get_attribute("outerHTML")
       Records_found.insert(x,records)
 
